@@ -14,7 +14,7 @@
     <a href="https://drive.google.com/file/d/1iY9qw5--nalj4BO2VlTL9DiP7zEjwarO/view?usp=sharing"><strong>Download APK</strong></a>
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/1iY9qw5--nalj4BO2VlTL9DiP7zEjwarO/view?usp=sharing">View Demo</a>
+    <a href="https://youtu.be/kkDelZyvhFU">View Demo</a>
   </p>
 </div>
 
@@ -58,6 +58,8 @@ Project SNC is an application to have a platform for students in a college to co
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+## Demo
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/kkDelZyvhFU)
 
 ## Getting Started
 
@@ -117,7 +119,7 @@ In future this application can further be expanded. It can be integrated with co
 
 ## ScreenShots
 
-<p float="left">
+<p float="center">
 <img src="screenshots/1.jpeg" data-canonical-src="screenshots/1.png" width="250" />
 <img src="screenshots/2.jpeg" data-canonical-src="screenshots/2.png" width="250" />
 <img src="screenshots/3.jpeg" data-canonical-src="screenshots/3.png" width="250" />
@@ -128,6 +130,7 @@ In future this application can further be expanded. It can be integrated with co
 <img src="screenshots/8.jpeg" data-canonical-src="screenshots/8.png" width="250" />
 <img src="screenshots/9.jpeg" data-canonical-src="screenshots/9.png" width="250" />
 <img src="screenshots/10.jpeg" data-canonical-src="screenshots/10.png" width="250" />
+</div>
 </p>
 
 <!-- ROADMAP -->
