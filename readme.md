@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/tejase/SNC-psghackathon">
-    <img src="src\components\assets\images\Capture.png" alt="Logo" width="120" height="120">
+    <img src="src\components\assets\images\Capture.png" alt="Logo" height="240">
   </a>
 
 <h3 align="center">Project-SNC</h3>
