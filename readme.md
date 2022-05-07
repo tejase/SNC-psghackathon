@@ -114,6 +114,21 @@ In future this application can further be expanded. It can be integrated with co
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- Screen shots -->
+
+## ScreenShots
+
+<img src="screenshots/1.jpeg" data-canonical-src="screenshots/1.png" width="250" />
+<img src="screenshots/2.jpeg" data-canonical-src="screenshots/2.png" width="250" />
+<img src="screenshots/3.jpeg" data-canonical-src="screenshots/3.png" width="250" />
+<img src="screenshots/4.jpeg" data-canonical-src="screenshots/4.png" width="250" />
+<img src="screenshots/5.jpeg" data-canonical-src="screenshots/5.png" width="250" />
+<img src="screenshots/6.jpeg" data-canonical-src="screenshots/6.png" width="250" />
+<img src="screenshots/7.jpeg" data-canonical-src="screenshots/7.png" width="250" />
+<img src="screenshots/8.jpeg" data-canonical-src="screenshots/8.png" width="250" />
+<img src="screenshots/9.jpeg" data-canonical-src="screenshots/9.png" width="250" />
+<img src="screenshots/10.jpeg" data-canonical-src="screenshots/10.png" width="250" />
+
 <!-- ROADMAP -->
 
 ## Roadmap
