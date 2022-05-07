@@ -59,7 +59,7 @@ Project SNC is an application to have a platform for students in a college to co
 
 <!-- GETTING STARTED -->
 ## Demo
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/kkDelZyvhFU)
+[![Watch the video](<img src="screenshots/thumbnail-demo.png" data-canonical-src="screenshots/1.png" />)](https://youtu.be/kkDelZyvhFU)
 
 ## Getting Started
 
