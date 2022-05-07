@@ -73,6 +73,7 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/tejase/SNC-psghackathon
    ```
@@ -81,11 +82,10 @@ To get a local copy up and running follow these simple steps.
    ```sh
    npm install
    ```
-4. Run the application
+3. Run the application
    ```sh
    npx react-native run-android
    ```
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -95,22 +95,21 @@ To get a local copy up and running follow these simple steps.
 
 Project SNC is a platform for students in a college to connect and grow 🚀
 
-As of now we still use old school methods like whatsapp or email for any type of communication within college. The basic aim of this project is to make sure, anyone in the college can communicate with any other person within the college with least effort. 
+As of now we still use old school methods like whatsapp or email for any type of communication within college. The basic aim of this project is to make sure, anyone in the college can communicate with any other person within the college with least effort.
 
 Let's take an example scenario. Say you are an M.Sc. 2nd year Software systems student ,a college level culturals like intrams is happening and you need to talk about the same to a 4th year mechanical student. (you just know his name, year and department). You can just open the app, select the department and year, boom you get list of all the corresponding students. You can select the person you wanted to talk and have a chat with them. You can share the event poster too! ( Yes! we support sending images as messages too :) )
 
-Now lets talk about the signup procedure. For an application specific to an organaisation like this, the most imporant thing is authentication. i.e we need to make sure only students studying in PSG Tech can have an account in the app. To tackle this situation we scan the ID-card of the student while he/she signs up for the first time. Also from the ID card we extract the year, section and department details of the student thus properly classifying them. This reduces errors too, as users knowingly/unknowingly might give wrong department data. 
+Now lets talk about the signup procedure. For an application specific to an organaisation like this, the most imporant thing is authentication. i.e we need to make sure only students studying in PSG Tech can have an account in the app. To tackle this situation we scan the ID-card of the student while he/she signs up for the first time. Also from the ID card we extract the year, section and department details of the student thus properly classifying them. This reduces errors too, as users knowingly/unknowingly might give wrong department data.
 
 Once the user has signedup/logged in, he enters the homepage of the application which displays the list of departments. Also each user has a public profile which contains basic info and a profile picture. User can find another student either navigating through department or searching them through the search option. After finding a student profile, user can open the chat window in a single click.
 
 The chat system is realtime, and currently supports sending text and image messages.
 
-The user can also edit their profile details any time. 
+The user can also edit their profile details any time.
 
 Apart from these some options like requesting new feature, ratings are also included, as they can be eventually added in the application.
 
-In future this application can further be expanded. It can be integrated with college clubs to get information about events, news and auditions. Group chats among each class, batch, department can be generated, where students can discuss stuffs. Also question paper sharing can be introduced. Also two step authentication with the official email adress can be introduced further improving the security of the application. ( Reduces fake accounts ). 
-
+In future this application can further be expanded. It can be integrated with college clubs to get information about events, news and auditions. Group chats among each class, batch, department can be generated, where students can discuss stuffs. Also question paper sharing can be introduced. Also two step authentication with the official email adress can be introduced further improving the security of the application. ( Reduces fake accounts ).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -118,6 +117,7 @@ In future this application can further be expanded. It can be integrated with co
 
 ## ScreenShots
 
+<p float="left">
 <img src="screenshots/1.jpeg" data-canonical-src="screenshots/1.png" width="250" />
 <img src="screenshots/2.jpeg" data-canonical-src="screenshots/2.png" width="250" />
 <img src="screenshots/3.jpeg" data-canonical-src="screenshots/3.png" width="250" />
@@ -128,6 +128,7 @@ In future this application can further be expanded. It can be integrated with co
 <img src="screenshots/8.jpeg" data-canonical-src="screenshots/8.png" width="250" />
 <img src="screenshots/9.jpeg" data-canonical-src="screenshots/9.png" width="250" />
 <img src="screenshots/10.jpeg" data-canonical-src="screenshots/10.png" width="250" />
+</p>
 
 <!-- ROADMAP -->
 
@@ -139,7 +140,7 @@ In future this application can further be expanded. It can be integrated with co
   - [ ] Login/ Signup
 - [ ] Explore screen
 - [ ] Departments
-- [ ] Chats 
+- [ ] Chats
 - [ ] Profile
 - [ ] Settings
 - [ ] Database implementation
